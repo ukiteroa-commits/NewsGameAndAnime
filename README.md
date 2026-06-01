@@ -188,4 +188,3 @@ MIT
 ---
 
 Автор: Ukiteroa · Ukiteroa@Gmail.com · @AlukardGame
-```
